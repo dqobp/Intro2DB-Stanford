@@ -1,5 +1,3 @@
------------------ GitHub Change Test --------------------
-
 // 1. Return all Title elements (of both departments and courses)
 doc("courses.xml")/Course_Catalog//Title
 
